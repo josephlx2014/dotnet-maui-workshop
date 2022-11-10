@@ -177,7 +177,7 @@ This project is pre-configured with all required permissions and features needed
 ### Update DetailsPage.xaml UI
 
 
-Above the monkey's name, let's add a button that calls the `OpenMapCommand`.
+Above the monkey's details, let's add a button that calls the `OpenMapCommand`.
 
 ```xml
 <Button Text="Show on Map" 
